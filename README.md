@@ -8,7 +8,7 @@ We’d like you to create a small e-commerce application for us to get some insi
 - Do not include new packages
 
 # Installation
-- `git clone git@github.com:Orderchamp/assignment.git`
+- `git clone git@github.com:CollinMolenaar/shoppingchart.git`
 - `composer install`
 - `php artisan serve`
 
