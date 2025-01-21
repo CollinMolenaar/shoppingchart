@@ -21,5 +21,5 @@ Fifteen minutes after checkout, a user should receive a discount code of € 5,-
 The UI is optional. Payments in this application are based on invoices. Invoices are out of scope :-)
 
 # run the following commands to run the store succesfully
-php artisan migrate
-php artisan db:seed --class=ProductSeeder
+- php artisan migrate.
+- php artisan db:seed --class=ProductSeeder
